@@ -2,7 +2,7 @@ const config = {
     type: Phaser.AUTO,
     width: 800,
     height: 600,
-    backgroundColor: '#ffffff',
+    backgroundColor: '#f0e6f6',
     scene: GameScene
 };
 
